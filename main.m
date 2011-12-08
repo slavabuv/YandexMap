@@ -1,0 +1,1 @@
+////  main.m//  YandexMap////  Created by Slava on 11/10/11.//  Copyright 2011 slavabuv@yandex.ru All rights reserved.//#import <UIKit/UIKit.h>int main(int argc, char *argv[]) {        NSAutoreleasePool * pool = [[NSAutoreleasePool alloc] init];    int retVal = UIApplicationMain(argc, argv, nil, nil);    [pool release];    return retVal;}

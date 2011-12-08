@@ -1,0 +1,1 @@
+////  YandexMapViewController.h//  YandexMap////  Created by Slava on 11/10/11.//  Copyright 2011 slavabuv@yandex.ru All rights reserved.//#import <UIKit/UIKit.h>#import "YandexMapView.h"@interface YandexMapViewController : UIViewController <iYandexMapAnnotationDelegate>{	UIButton		*_buttonAddPlace;	YandexMapView	*_yandexMapView;}@end
