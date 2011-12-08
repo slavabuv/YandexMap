@@ -1,0 +1,304 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* YandexMapAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1092, 869}}";
+			sepNavSelRange = "{118, 0}";
+			sepNavVisRange = "{0, 487}";
+		};
+	};
+	1D3623250D0F684500981E51 /* YandexMapAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1066}}";
+			sepNavSelRange = "{118, 0}";
+			sepNavVisRange = "{0, 2368}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* YandexMap */ = {
+		activeExec = 0;
+		executables = (
+			ACF8FBCF146BFD9600C288DA /* YandexMap */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* YandexMapViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1092, 869}}";
+			sepNavSelRange = "{121, 0}";
+			sepNavVisRange = "{0, 353}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* YandexMapViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1335, 1209}}";
+			sepNavSelRange = "{828, 73}";
+			sepNavVisRange = "{50, 1982}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = ACF8FBCF146BFD9600C288DA /* YandexMap */;
+		activeSDKPreference = iphonesimulator4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* YandexMap */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* YandexMap */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = ACF8FBDA146BFDB500C288DA /* Code sense */;
+		executables = (
+			ACF8FBCF146BFD9600C288DA /* YandexMap */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					914,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					928,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 345053492;
+			PBXWorkspaceStateSaveDate = 345053492;
+		};
+		perUserProjectItems = {
+			AC4D82CC149094C00069223A = AC4D82CC149094C00069223A /* PBXTextBookmark */;
+			AC4D82DD1490957E0069223A = AC4D82DD1490957E0069223A /* PBXTextBookmark */;
+			AC4D82DF1490957E0069223A = AC4D82DF1490957E0069223A /* PBXTextBookmark */;
+			ACA0AF41148FC0BA00D9FCE8 = ACA0AF41148FC0BA00D9FCE8 /* PBXTextBookmark */;
+			ACA0AF42148FC0BA00D9FCE8 = ACA0AF42148FC0BA00D9FCE8 /* PBXTextBookmark */;
+			ACA0AF43148FC0BA00D9FCE8 = ACA0AF43148FC0BA00D9FCE8 /* PBXTextBookmark */;
+			ACA0AF45148FC0BA00D9FCE8 = ACA0AF45148FC0BA00D9FCE8 /* PBXTextBookmark */;
+			ACA0AF46148FC0BA00D9FCE8 = ACA0AF46148FC0BA00D9FCE8 /* PBXTextBookmark */;
+			ACA0AF48148FC0BA00D9FCE8 = ACA0AF48148FC0BA00D9FCE8 /* PlistBookmark */;
+			ACA0AF4F148FC0D700D9FCE8 = ACA0AF4F148FC0D700D9FCE8 /* PBXTextBookmark */;
+			ACDF0E02149115C5005C4106 = ACDF0E02149115C5005C4106 /* PBXTextBookmark */;
+		};
+		sourceControlManager = ACF8FBD9146BFDB500C288DA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1092, 869}}";
+			sepNavSelRange = "{102, 0}";
+			sepNavVisRange = "{0, 357}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* YandexMap_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1092, 869}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 187}";
+		};
+	};
+	AC4D82CC149094C00069223A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* YandexMapViewController.m */;
+		name = "YandexMapViewController.m: 35";
+		rLen = 0;
+		rLoc = 826;
+		rType = 0;
+		vrLen = 1875;
+		vrLoc = 0;
+	};
+	AC4D82DD1490957E0069223A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ACF8FBF3146C11EF00C288DA /* yandexMap.html */;
+		name = "yandexMap.html: 124";
+		rLen = 0;
+		rLoc = 3195;
+		rType = 0;
+		vrLen = 1693;
+		vrLoc = 1510;
+	};
+	AC4D82DF1490957E0069223A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AC846524147D65BF00786E51 /* YandexMapView.m */;
+		name = "YandexMapView.m: 198";
+		rLen = 0;
+		rLoc = 4715;
+		rType = 0;
+		vrLen = 1726;
+		vrLoc = 4195;
+	};
+	AC846523147D65BF00786E51 /* YandexMapView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1092, 869}}";
+			sepNavSelRange = "{674, 13}";
+			sepNavVisRange = "{0, 1280}";
+		};
+	};
+	AC846524147D65BF00786E51 /* YandexMapView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1713, 4394}}";
+			sepNavSelRange = "{4866, 0}";
+			sepNavVisRange = "{6773, 2115}";
+		};
+	};
+	ACA0AF41148FC0BA00D9FCE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* YandexMapAppDelegate.h */;
+		name = "YandexMapAppDelegate.h: 6";
+		rLen = 0;
+		rLoc = 118;
+		rType = 0;
+		vrLen = 487;
+		vrLoc = 0;
+	};
+	ACA0AF42148FC0BA00D9FCE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* YandexMapAppDelegate.m */;
+		name = "YandexMapAppDelegate.m: 6";
+		rLen = 0;
+		rLoc = 118;
+		rType = 0;
+		vrLen = 2368;
+		vrLoc = 0;
+	};
+	ACA0AF43148FC0BA00D9FCE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* YandexMapViewController.h */;
+		name = "YandexMapViewController.h: 6";
+		rLen = 0;
+		rLoc = 121;
+		rType = 0;
+		vrLen = 353;
+		vrLoc = 0;
+	};
+	ACA0AF45148FC0BA00D9FCE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* YandexMap_Prefix.pch */;
+		name = "YandexMap_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 187;
+		vrLoc = 0;
+	};
+	ACA0AF46148FC0BA00D9FCE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 6";
+		rLen = 0;
+		rLoc = 102;
+		rType = 0;
+		vrLen = 357;
+		vrLoc = 0;
+	};
+	ACA0AF48148FC0BA00D9FCE8 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* YandexMap-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/ruslanahatov/Documents/Projects/YandexMap/YandexMap-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	ACA0AF4F148FC0D700D9FCE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AC846523147D65BF00786E51 /* YandexMapView.h */;
+		name = "YandexMapView.h: 6";
+		rLen = 0;
+		rLoc = 111;
+		rType = 0;
+		vrLen = 1000;
+		vrLoc = 0;
+	};
+	ACDF0E02149115C5005C4106 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AC846524147D65BF00786E51 /* YandexMapView.m */;
+		name = "YandexMapView.m: 198";
+		rLen = 0;
+		rLoc = 4715;
+		rType = 0;
+		vrLen = 1673;
+		vrLoc = 4195;
+	};
+	ACF8FBCF146BFD9600C288DA /* YandexMap */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = YandexMap;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	ACF8FBD9146BFDB500C288DA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	ACF8FBDA146BFDB500C288DA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	ACF8FBF3146C11EF00C288DA /* yandexMap.html */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.html;
+		name = yandexMap.html;
+		path = /Users/ruslanahatov/Documents/Projects/YandexMap/yandexMap.html;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1293, 1885}}";
+			sepNavSelRange = "{3195, 0}";
+			sepNavVisRange = "{1473, 1736}";
+		};
+	};
+}
