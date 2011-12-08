@@ -16,7 +16,6 @@
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
 		28D7ACF80DDB3853001CB0EB /* YandexMapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* YandexMapViewController.m */; };
 		AC846525147D65BF00786E51 /* YandexMapView.m in Sources */ = {isa = PBXBuildFile; fileRef = AC846524147D65BF00786E51 /* YandexMapView.m */; };
-		AC8C368614911BF6005B304C /* ReadMe.txt in Resources */ = {isa = PBXBuildFile; fileRef = AC8C368514911BF6005B304C /* ReadMe.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,7 +34,6 @@
 		8D1107310486CEB800E47090 /* YandexMap-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "YandexMap-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 		AC846523147D65BF00786E51 /* YandexMapView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YandexMapView.h; sourceTree = "<group>"; };
 		AC846524147D65BF00786E51 /* YandexMapView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YandexMapView.m; sourceTree = "<group>"; };
-		AC8C368514911BF6005B304C /* ReadMe.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReadMe.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,7 +114,6 @@
 		AC8C368814911CBB005B304C /* YandexMap */ = {
 			isa = PBXGroup;
 			children = (
-				AC8C368514911BF6005B304C /* ReadMe.txt */,
 				AC846523147D65BF00786E51 /* YandexMapView.h */,
 				AC846524147D65BF00786E51 /* YandexMapView.m */,
 			);
@@ -177,7 +174,6 @@
 			files = (
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
 				2899E5220DE3E06400AC0155 /* YandexMapViewController.xib in Resources */,
-				AC8C368614911BF6005B304C /* ReadMe.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
