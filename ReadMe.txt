@@ -1,1 +1,10 @@
-YandexMap проект для использования yandex карт в своих приложенияхYandexMapView.h и YandexMapView.m файлы реализуют функционал по отрисовке и взаимодействию с картойпоставить метки, убрать метки, скролировать карту, изменять масштаб.Для использования карт в своих приложениях нужно создать экземпляр класса YandexMapView указав размеры карты и yandexAPIKey(получить этот ключ можно тут http://api.yandex.ru/maps/glossary.xml#api-key)пример:_yandexMapView = [[YandexMapView alloc] initWithFrame:CGRectMake(0, 0, 320, 468) yandexAPIKey:@"ANpUFEkBAAAAf7jmJwMAHGZHrcKNDsbEqEVjEUtCmufxQMwAAAAAAAAAAAAvVrubVT4btztbduoIgTLAeFILaQ"];[_yandexMapView setWriteLog:YES];// - указать надо ли писать отладочную информацию в консоль[_yandexMapView setDelegate:self];// - указать делегат куда будут приходить события о выбранных метках[self.view addSubview:_yandexMapView];// - добавить карту на экрандобавление меток на карту [_yandexMapView addAnnotations:[NSArray arrayWithObjects:(iYandexMapAnnotation*),(iYandexMapAnnotation*),nil]];удаление меток с карты [_yandexMapView addAnnotations:nil];обрабтка делегата:-(void)onAnnotationDetail:(iYandexMapAnnotation*)annotation{	//annotation - объект карты, метка, на который нажали мышью}
+Project Yandex maps
+provides an opportunity to work with Yandex kartamipo means javaskript
+
+YandexMapView possible classes
+ rendering
+ scrolling
+ mashtabirovanie
+ distributions of labels
+
+to start to get yandexAPIKey (http://api.yandex.ru/maps/glossary.xml#api-key)
